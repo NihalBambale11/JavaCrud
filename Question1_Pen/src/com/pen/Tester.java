@@ -20,7 +20,7 @@ public class Tester {
 			{
 			try
 			{	
-				
+				System.out.println("*** Main Menu*****");
 				System.out.println("1.Add New Pen");
 				System.out.println("2.Update stock of a Pen");
 				System.out.println("3.Set discount of 20% for all the pens which are not at all sold in last 3 months");
